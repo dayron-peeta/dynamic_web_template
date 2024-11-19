@@ -1,3 +1,5 @@
+Odoo Module
+
 Rutas dinámicas para renderizar plantillas.
 Gestión de plantillas personalizadas.
 Asociación dinámica de vistas a registros.
