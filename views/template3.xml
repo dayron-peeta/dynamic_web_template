@@ -3,7 +3,7 @@
         <t t-call="website.layout">
             <div class="container">
                 <h1>template 3</h1>
-                <p>Esta es la vista de template 3.</p>
+                <p>Esta es la vista de template #3.</p>
             </div>
         </t>
     </template>
